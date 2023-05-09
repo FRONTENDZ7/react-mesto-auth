@@ -46,7 +46,7 @@ _Для входа на страницу с карточками нужно за
 *https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/Sprint-14-RU?node-id=0%3A1*
 
 **Ссылка на GitHub Pages:**
-*https://frontendz7.github.io/mesto-react-auth/*
+*https://frontendz7.github.io/react-mesto-auth/*
 
 ---
 
